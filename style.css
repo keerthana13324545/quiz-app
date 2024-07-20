@@ -1,0 +1,28 @@
+body {
+  background-image: url("https://tse1.mm.bing.net/th?id=OIP.yOYao2Emd-wFuETbw3yXowHaE8&pid=Api&P=0&h=180");
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  align-items: center;
+  padding-top: 150px;
+  color: rgb(232, 184, 111);
+}
+h4 {
+  margin-top: 100px;
+
+  text-align: center;
+  align-items: center;
+}
+.btn {
+  margin-top: 100px;
+  margin-left: 155px;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
